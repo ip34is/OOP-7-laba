@@ -1,0 +1,14 @@
+C:\Users\Елена\OOP7 (list)\obj\Debug\net8.0\OOP7 (list).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\OOP7 (list)\obj\Debug\net8.0\OOP7 (list).AssemblyInfoInputs.cache
+C:\Users\Елена\OOP7 (list)\obj\Debug\net8.0\OOP7 (list).AssemblyInfo.cs
+C:\Users\Елена\OOP7 (list)\obj\Debug\net8.0\OOP7 (list).csproj.CoreCompileInputs.cache
+C:\Users\Елена\OOP7 (list)\bin\Debug\net8.0\OOP7 (list).exe
+C:\Users\Елена\OOP7 (list)\bin\Debug\net8.0\OOP7 (list).deps.json
+C:\Users\Елена\OOP7 (list)\bin\Debug\net8.0\OOP7 (list).runtimeconfig.json
+C:\Users\Елена\OOP7 (list)\bin\Debug\net8.0\OOP7 (list).dll
+C:\Users\Елена\OOP7 (list)\bin\Debug\net8.0\OOP7 (list).pdb
+C:\Users\Елена\OOP7 (list)\obj\Debug\net8.0\OOP7 (list).dll
+C:\Users\Елена\OOP7 (list)\obj\Debug\net8.0\refint\OOP7 (list).dll
+C:\Users\Елена\OOP7 (list)\obj\Debug\net8.0\OOP7 (list).pdb
+C:\Users\Елена\OOP7 (list)\obj\Debug\net8.0\OOP7 (list).genruntimeconfig.cache
+C:\Users\Елена\OOP7 (list)\obj\Debug\net8.0\ref\OOP7 (list).dll
